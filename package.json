@@ -1,0 +1,19 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "dom": "0.0.3",
+    "express": "^4.16.4",
+    "html": "^1.0.0",
+    "path": "^0.12.7",
+    "require-ejs": "0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gido",
+  "license": "ISC"
+}
